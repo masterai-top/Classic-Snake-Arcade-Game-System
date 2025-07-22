@@ -1,5 +1,5 @@
 # Greedy-snake
-贪吃蛇游戏，蛇蛇大作战游戏源码，美术资源全部出售；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
+贪吃蛇游戏，蛇蛇大作战游戏源码，美术资源全部；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
 ![主界面-侧边栏效果图](https://github.com/user-attachments/assets/c13fb21d-81a5-41df-a562-5a8eb7918be2)
 ![战斗系统效果图](https://github.com/user-attachments/assets/915b0c53-4ad3-44f2-87ca-39c9596fe250)
 ![贪吃蛇主大厅](https://github.com/user-attachments/assets/e170e0f3-02d2-42a3-af1a-7d723c43c571)
